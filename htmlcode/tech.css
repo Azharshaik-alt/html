@@ -7,4 +7,15 @@ p{
     text-align: center;
 }
 
+.container{
+    display: flex;
+}
 
+.p{
+    margin: auto;
+}
+
+.mycontainer{
+ margin: auto;
+
+}
